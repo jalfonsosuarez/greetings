@@ -1,14 +1,14 @@
-#Saludos en Go
+# Saludos en Go
 
 Paquete que proporciona saludos personalizados.
 
-##Instalación
+## Instalación
 Ejecuta el siguiente comando para instalar el paquete:
 ```bash
 go get -u github.com/jalfonsosuarez/greetings
 ```
 
-##Uso
+## Uso
 Ejemplo de como usar el paquete en tu proyecto Go:
 
 ```go
