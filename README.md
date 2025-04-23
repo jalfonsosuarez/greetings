@@ -2,13 +2,20 @@
 
 Paquete que proporciona saludos personalizados.
 
+Curso Udemy:
+
+[GOLANG: Curso profesional de Go - De cero a Master 2025](https://www.udemy.com/course/curso-golang/)
+
 ## Instalación
+
 Ejecuta el siguiente comando para instalar el paquete:
+
 ```bash
 go get -u github.com/jalfonsosuarez/greetings
 ```
 
 ## Uso
+
 Ejemplo de como usar el paquete en tu proyecto Go:
 
 ```go
